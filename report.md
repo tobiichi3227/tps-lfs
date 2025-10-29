@@ -17,7 +17,7 @@
 | gen | [:white_check_mark:](pA/gen) |
 | solution | [:x:](pA/solution)<br>[correct.cpp](pA/solution/correct.cpp) |
 | validator | [:x:](pA/validator)<br>[validator.cpp](pA/validator/validator.cpp) |
-| subtasks.json<br>global_validators |  [:white_check_mark:](pA/subtasks.json) |
+| subtasks.json<br>global_validators |  [:warning:](pA/subtasks.json) Not set |
 | tests | [:x:](pA/tests) |
 | statement/index.md | [:x:](pA/statement/index.md) |
 | statement/index.pdf | [:x:](pA/statement/index.pdf)<br>[Auto build disabled](pA/statement/DISABLE_AUTO_BUILD) |
