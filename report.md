@@ -14,7 +14,7 @@
 | memory_limit |  512 |
 | time_limit |  1.0 |
 | has_checker |  False |
-| gen | [:x:](pA/gen)<br>[data](pA/gen/data) |
+| gen | [:white_check_mark:](pA/gen) |
 | solution | [:x:](pA/solution)<br>[correct.cpp](pA/solution/correct.cpp) |
 | validator | [:x:](pA/validator)<br>[validator.cpp](pA/validator/validator.cpp) |
 | subtasks.json<br>global_validators |  [:white_check_mark:](pA/subtasks.json) |
