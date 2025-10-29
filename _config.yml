@@ -1,2 +1,4 @@
 exclude:
+  - pA/scripts/
+  - pA/tests/
 # NEWPROBLEM
