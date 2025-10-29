@@ -6,3 +6,6 @@ manual example-1.in
 @subtask full
 gen	20
 gen	30
+gen 40
+gen 50
+gen 60
